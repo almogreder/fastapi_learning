@@ -1,2 +1,2 @@
 # fastapi_learning
-learning fastapi, docker and linux
+learning fastapi, docker and how to use linux cmd properly
