@@ -1,0 +1,8 @@
+# Dockerfile,Image, Container
+FROM python:3.9.12
+
+ADD learn_fastapi.py .
+
+RUN pip install fastapi typing pydantic
+
+CMD ["python", "./learn_fastapi.py"]
